@@ -51,6 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 
+Spotify_secret.json
+
 # Translations
 *.mo
 *.pot
