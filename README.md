@@ -20,3 +20,7 @@ The project is created for my exam in Programming and Data Visualization for Res
 
 This project is created by Kristin Bjørkhaug Johansen. For questions, comments or request of additional ID, please contact me at kjo186@uit.no
 
+## Citation
+
+Johansen, K., B. (2023). Spotify api project (Version 1.0). GitHub.
+
